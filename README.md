@@ -1,4 +1,4 @@
-![thumbnail (5)](https://github.com/user-attachments/assets/4c574018-b8b3-4e03-8654-b8c0aabcc996)
+![thumbnail (5)](https://github.com/user-attachments/assets/bc973aea-b4f4-408a-b086-8be71f725cf2)
 # 👥 진행 방식
 ### 1️⃣ 목표
 - 1주에 1개 블로그 발행(매주 일요일 자정까지)
