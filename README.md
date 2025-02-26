@@ -8,20 +8,22 @@
 - 2025/02/24 ~ 2025/04/27
 ### 4️⃣ 벌금
 - 월~일요일 자정 기준 블로그 미 업로드 시 5000원
-### 5️⃣ 참여자 및 블로그
+### 5️⃣ 규칙
+- 같은 블로그 사용자의 경우 새로운 포스트가 올라오면 좋아요, 댓글 달아주기기
+### 6️⃣ 참여자 및 블로그
 | **이름**    | **블로그**       |  
 |:-----------:|:----------------:|
-| 이종훈      | https://znhxxn.tistory.com/       |  
+| 이종훈      | https://velog.io/@znhxxn/posts    |  
 | 송희범      | https://heebeom-song.github.io/   |  
 | 오지현      | https://velog.io/@wlqgkrry/series |   
-| 이소연      |                                   |
+| 이소연      | https://eesoyeon.tistory.com/     |
 | 남유성      | https://y9s2n6.tistory.com/       | 
 | 황채연      | https://chaeon1.tistory.com/      | 
 | 한정욱      | https://velog.io/@nowrobin/posts  | 
 
 <br />
 
-# ✏️ 블로그 인증
+# ✏️ 블로그 기록
 <table>
   <thead>
     <tr>
