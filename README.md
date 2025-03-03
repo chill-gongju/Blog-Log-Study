@@ -9,14 +9,14 @@
 ### 4️⃣ 벌금
 - 월~일요일 자정 기준 블로그 미 업로드 시 5000원
 ### 5️⃣ 규칙
-- 같은 블로그 사용자의 경우 새로운 포스트가 올라오면 좋아요, 댓글 달아주기기
+- 같은 블로그 사용자의 경우 새로운 포스트가 올라오면 좋아요, 댓글 달아주기
 ### 6️⃣ 참여자 및 블로그
 | **이름**    | **블로그**       |  
 |:-----------:|:----------------:|
 | 이종훈      | https://velog.io/@znhxxn/posts    |  
 | 송희범      | https://heebeom-song.github.io/   |  
-| 오지현      | https://velog.io/@wlqgkrry/series |   
-| 이소연      | https://eesoyeon.tistory.com/     |
+| 오지현      | https://velog.io/@wlqgkrry/posts  |   
+| 이소연      | https://velog.io/@eesoyeon/posts  |
 | 남유성      | https://y9s2n6.tistory.com/       | 
 | 황채연      | https://chaeon1.tistory.com/      | 
 | 한정욱      | https://velog.io/@nowrobin/posts  | 
@@ -36,8 +36,8 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">1주차<br />(25.02.24 - 25.03.02)</th>
-      <td></td>
-      <td></td>
+      <td>https://velog.io/@znhxxn/Spring-Boot-Kotlin-vs-Java</td>
+      <td>spring</td>
       <td>종훈</td>
     </tr>
     <tr>
@@ -46,28 +46,28 @@
       <td>희범</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>https://velog.io/@wlqgkrry/브랜치-전략-git-flow-github-flow</td>
+      <td>github</td>
       <td>지현</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>https://velog.io/@eesoyeon/MySQL-Cannot-Connect-to-Database-Server-해결-macOS</td>
+      <td>mariaDB</td>
       <td>소연</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>https://y9s2n6.tistory.com/65</td>
+      <td>javascript</td>
       <td>유성</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>https://chaeon1.tistory.com/1</td>
+      <td>react</td>
       <td>채연</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>https://velog.io/@nowrobin/Storybook은-왜-쓰는-걸까</td>
+      <td>storybook</td>
       <td>정욱</td>
     </tr>
 </table>
