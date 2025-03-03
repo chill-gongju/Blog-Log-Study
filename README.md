@@ -24,20 +24,20 @@
 <br />
 
 # ✏️ 블로그 기록
-<table width="100%">
+<table width="100%" style="table-layout: fixed;">
   <thead>
     <tr>
-      <th width="30%" align="center">날짜</th>
+      <th align="center">날짜</th>
       <th width="40%" align="center">포스트</th>
       <th width="15%" align="center">태그</th>
-      <th width="15%" align="center">이름</th>
+      <th width="15%" align="center">작성자</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th rowspan=8 align="center">1주차<br />(25.02.24 - 25.03.02)</th>
       <td><a href='https://velog.io/@znhxxn/Spring-Boot-Kotlin-vs-Java'>Spring: Kotlin vs Java</td>
-      <td align="center">spring</td>
+      <td align="center"><code>spring</code></td>
       <td align="center">종훈</td>
     </tr>
     <tr>
@@ -47,27 +47,27 @@
     </tr>
     <tr>
       <td><a href='https://velog.io/@wlqgkrry/브랜치-전략-git-flow-github-flow'>브랜치 전략</td>
-      <td align="center">github</td>
+      <td align="center"><code>github</code></td>
       <td align="center">지현</td>
     </tr>
     <tr>
       <td><a href='https://velog.io/@eesoyeon/MySQL-Cannot-Connect-to-Database-Server-해결-macOS'>MySQL 연결 오류 해결</td>
-      <td align="center">mariaDB</td>
+      <td align="center"><code>mariaDB</code></td>
       <td align="center">소연</td>
     </tr>
     <tr>
       <td><a href='https://y9s2n6.tistory.com/65'>화살표 함수</td>
-      <td align="center">javascript</td>
+      <td align="center"><code>javascript</code></td>
       <td align="center">유성</td>
     </tr>
     <tr>
       <td><a href='https://chaeon1.tistory.com/1'>리액트 다크 모드 구현</td>
-      <td align="center">react</td>
+      <td align="center"><code>react</code></td>
       <td align="center">채연</td>
     </tr>
     <tr>
       <td><a href='https://velog.io/@nowrobin/Storybook은-왜-쓰는-걸까'>Storybook은 왜 쓰는걸까?</td>
-      <td align="center">storybook</td>
+      <td align="center"><code>storybook</code></td>
       <td align="center">정욱</td>
     </tr>
   </tbody>
