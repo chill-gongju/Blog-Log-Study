@@ -28,9 +28,9 @@
   <thead>
     <tr>
       <th align="center">날짜</th>
-      <th width="40%" align="center">포스트</th>
-      <th width="15%" align="center">태그</th>
-      <th width="15%" align="center">작성자</th>
+      <th align="center">포스트</th>
+      <th align="center">태그</th>
+      <th align="center">작성자</th>
     </tr>
   </thead>
   <tbody>
