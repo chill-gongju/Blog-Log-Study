@@ -30,7 +30,7 @@
       <th align="center">날짜</th>
       <th align="center">포스트</th>
       <th align="center">태그</th>
-      <th align="center">작성자</th>
+      <th align="center">이름</th>
     </tr>
   </thead>
   <tbody>
@@ -70,4 +70,43 @@
       <td>storybook</td>
       <td>정욱</td>
     </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">2주차<br />(25.03.03 - 25.03.09)</th>
+      <td></td>
+      <td></td>
+      <td>종훈</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>희범</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>지현</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>소연</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>유성</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>채연</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>정욱</td>
+    </tr>
+  </tbody>
 </table>
