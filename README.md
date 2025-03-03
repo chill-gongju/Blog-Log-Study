@@ -24,89 +24,89 @@
 <br />
 
 # ✏️ 블로그 기록
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th align="center">날짜</th>
-      <th align="center">포스트</th>
-      <th align="center">태그</th>
-      <th align="center">이름</th>
+      <th width="30%" align="center">날짜</th>
+      <th width="40%" align="center">포스트</th>
+      <th width="15%" align="center">태그</th>
+      <th width="15%" align="center">이름</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th rowspan=8 align="center">1주차<br />(25.02.24 - 25.03.02)</th>
-      <td>https://velog.io/@znhxxn/Spring-Boot-Kotlin-vs-Java</td>
-      <td>spring</td>
-      <td>종훈</td>
+      <td><a href='https://velog.io/@znhxxn/Spring-Boot-Kotlin-vs-Java'>Spring: Kotlin vs Java</td>
+      <td align="center">spring</td>
+      <td align="center">종훈</td>
     </tr>
     <tr>
       <td></td>
-      <td></td>
-      <td>희범</td>
+      <td align="center"></td>
+      <td align="center">희범</td>
     </tr>
     <tr>
-      <td>https://velog.io/@wlqgkrry/브랜치-전략-git-flow-github-flow</td>
-      <td>github</td>
-      <td>지현</td>
+      <td><a href='https://velog.io/@wlqgkrry/브랜치-전략-git-flow-github-flow'>브랜치 전략</td>
+      <td align="center">github</td>
+      <td align="center">지현</td>
     </tr>
     <tr>
-      <td>https://velog.io/@eesoyeon/MySQL-Cannot-Connect-to-Database-Server-해결-macOS</td>
-      <td>mariaDB</td>
-      <td>소연</td>
+      <td><a href='https://velog.io/@eesoyeon/MySQL-Cannot-Connect-to-Database-Server-해결-macOS'>MySQL 연결 오류 해결</td>
+      <td align="center">mariaDB</td>
+      <td align="center">소연</td>
     </tr>
     <tr>
-      <td>https://y9s2n6.tistory.com/65</td>
-      <td>javascript</td>
-      <td>유성</td>
+      <td><a href='https://y9s2n6.tistory.com/65'>화살표 함수</td>
+      <td align="center">javascript</td>
+      <td align="center">유성</td>
     </tr>
     <tr>
-      <td>https://chaeon1.tistory.com/1</td>
-      <td>react</td>
-      <td>채연</td>
+      <td><a href='https://chaeon1.tistory.com/1'>리액트 다크 모드 구현</td>
+      <td align="center">react</td>
+      <td align="center">채연</td>
     </tr>
     <tr>
-      <td>https://velog.io/@nowrobin/Storybook은-왜-쓰는-걸까</td>
-      <td>storybook</td>
-      <td>정욱</td>
+      <td><a href='https://velog.io/@nowrobin/Storybook은-왜-쓰는-걸까'>Storybook은 왜 쓰는걸까?</td>
+      <td align="center">storybook</td>
+      <td align="center">정욱</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <th rowspan=8 align="center">2주차<br />(25.03.03 - 25.03.09)</th>
       <td></td>
-      <td></td>
-      <td>종훈</td>
+      <td align="center"></td>
+      <td align="center">종훈</td>
     </tr>
     <tr>
       <td></td>
-      <td></td>
-      <td>희범</td>
+      <td align="center"></td>
+      <td align="center">희범</td>
     </tr>
     <tr>
       <td></td>
-      <td></td>
-      <td>지현</td>
+      <td align="center"></td>
+      <td align="center">지현</td>
     </tr>
     <tr>
       <td></td>
-      <td></td>
-      <td>소연</td>
+      <td align="center"></td>
+      <td align="center">소연</td>
     </tr>
     <tr>
       <td></td>
-      <td></td>
-      <td>유성</td>
+      <td align="center"></td>
+      <td align="center">유성</td>
     </tr>
     <tr>
       <td></td>
-      <td></td>
-      <td>채연</td>
+      <td align="center"></td>
+      <td align="center">채연</td>
     </tr>
     <tr>
       <td></td>
-      <td></td>
-      <td>정욱</td>
+      <td align="center"></td>
+      <td align="center">정욱</td>
     </tr>
   </tbody>
 </table>
