@@ -74,38 +74,76 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">2주차<br />(25.03.03 - 25.03.09)</th>
-      <td></td>
-      <td align="center"></td>
+      <td><a href='https://velog.io/@znhxxn/AWS-S3-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0'>AWS S3 활용하기</td>
+      <td align="center"><code>AWS S3</code></td>
       <td align="center">종훈</td>
     </tr>
     <tr>
-      <td></td>
-      <td align="center"></td>
+      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/%EA%B0%9C%EC%9D%B8%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/github%20blog%20%EB%A7%8C%EB%93%A4%EA%B8%B0.html'>Github page을 활용한 개인 블로그 만들기!</td>
+      <td align="center"><code>github page</code></td>
       <td align="center">희범</td>
     </tr>
     <tr>
-      <td></td>
-      <td align="center"></td>
+      <td><a href='https://velog.io/@wlqgkrry/api-%EC%8B%A4%ED%96%89-%EC%8B%9C-%EC%97%91%EC%85%80%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0'>엑셀 데이터 저장 구현하기</td>
+      <td align="center"><code>api와 액셀 데이터</code></td>
       <td align="center">지현</td>
     </tr>
     <tr>
-      <td></td>
-      <td align="center"></td>
+      <td><a href='https://velog.io/@eesoyeon/%EC%8B%9C%EB%A7%A8%ED%8B%B1-%ED%83%9C%EA%B7%B8%EB%A5%BC-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%82%98-%EC%A2%85%EB%A5%98%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95'>시맨틱 태그를 왜 사용하나</td>
+      <td align="center"><code>시맨틱 태그</code></td>
       <td align="center">소연</td>
     </tr>
     <tr>
-      <td></td>
-      <td align="center"></td>
+      <td><a href='https://y9s2n6.tistory.com/66'>Web Storage</td>
+      <td align="center"><code>Web Storage</code></td>
       <td align="center">유성</td>
     </tr>
     <tr>
-      <td></td>
-      <td align="center"></td>
+      <td><a href='https://chaeon1.tistory.com/2'>모던 자바스크립트 딥다이브 4~10장</td>
+      <td align="center"><code>JavaScript</code></td>
       <td align="center">채연</td>
     </tr>
     <tr>
-      <td></td>
-      <td align="center"></td>
+      <td><a href='https://velog.io/@nowrobin/Storybook-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0'>StoryBook 적용하기</td>
+      <td align="center"><code>StoryBook</code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">3주차<br />(25.03.10 - 25.03.16)</th>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
       <td align="center">정욱</td>
     </tr>
   </tbody>
