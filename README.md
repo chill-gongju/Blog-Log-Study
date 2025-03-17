@@ -112,6 +112,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">3주차<br />(25.03.10 - 25.03.16)</th>
+      <td><a href='https://velog.io/@znhxxn/%EC%82%AC%EB%A1%80-%EA%B8%B0%EB%B0%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D'>타입스크립트 심층 분석</td>
+      <td align="center"><code>Typescript</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/express.js/Cloudtype+Expressjs%20%EB%AC%B4%EB%A3%8C%20%EC%84%9C%EB%B2%84%20%EB%B0%B0%ED%8F%AC.html'>Cloudtype을 활용한 무료 서버 배포</td>
+      <td align="center"><code>Cloudtype</code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@wlqgkrry/Spring%EC%9D%98-%EA%B8%B0%EB%B3%B8'>Spring의 기본</td>
+      <td align="center"><code>Spring</code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C-15%EC%9E%A5-let-const-%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80-%EB%B8%94%EB%A1%9D-%EB%A0%88%EB%B2%A8-%EC%8A%A4%EC%BD%94%ED%94%84'>모던 자바스크립트 딥다이브 15장</td>
+      <td align="center"><code>Javascript</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/67'>Promise란?</td>
+      <td align="center"><code>Promise</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/3'>웹 접근성이란?</td>
+      <td align="center"><code>웹 접근성</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">4주차<br />(25.03.17 - 25.03.23)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
