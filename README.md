@@ -150,6 +150,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">4주차<br />(25.03.17 - 25.03.23)</th>
+      <td><a href='https://velog.io/@znhxxn/%EC%9C%A0%ED%9A%A8%EC%84%B1-%EA%B2%80%EC%82%AC-%EB%B0%8F-%EC%97%90%EB%9F%AC-%EC%B2%98%EB%A6%AC-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0'>효율적인 API 설계하기</td>
+      <td align="center"><code>API</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/%EC%98%A4%EB%A5%98%20%EB%AA%A8%EC%9D%8C%EC%A7%91/DB%EA%B4%80%EB%A0%A8%EC%98%A4%EB%A5%981.html'>DB 관련 오류 해결!</td>
+      <td align="center"><code>DB</code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@wlqgkrry/Spring-bean%EC%9D%84-%ED%86%B5%ED%95%B4-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0'>spring-bean을 통한 기본 개념 정리</td>
+      <td align="center"><code>spring</code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/%EB%A6%AC%EB%A0%8C%EB%8D%94%EB%A7%81Re-rendering%EC%9D%84-%ED%94%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-5%EA%B0%80%EC%A7%80'>리렌더링을 피하는 방법 5가지</td>
+      <td align="center"><code>리렌더링</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/68'>콜백 함수</td>
+      <td align="center"><code>콜백 함수</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/9'>웹 성능 최적화</td>
+      <td align="center"><code>최적화</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@nowrobin/%EB%B2%88%EB%93%A4%EB%A7%81%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC'>번들링에 관하여</td>
+      <td align="center"><code>번들링</code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">5주차<br />(25.03.24 - 25.03.30)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
