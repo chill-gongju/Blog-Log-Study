@@ -188,6 +188,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">5주차<br />(25.03.24 - 25.03.30)</th>
+      <td><a href='https://velog.io/@znhxxn/transaction-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0'>트랜젝션 활용하기</td>
+      <td align="center"><code>트랜젝션</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/git/%EC%9E%90%EA%BE%B8%20%EA%B9%8C%EB%A8%B9%EB%8A%94%20git%20%EC%82%AC%EC%9A%A9%EB%B2%95%20%EC%A0%95%EB%A6%AC.html'>자꾸 까먹는 git 사용법 정리</td>
+      <td align="center"><code>git 사용법</code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@wlqgkrry/Spring-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1'>spring 프로젝트 1</td>
+      <td align="center"><code>spring</code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/effect%EC%99%80-useEffect'>effect와 useEffect</td>
+      <td align="center"><code>useEffect</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/69'>ios simulator 에러 해결하기</td>
+      <td align="center"><code>ios simulator</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/13'>컴포넌트 재사용성</td>
+      <td align="center"><code>컴포넌트 재사용성</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">6주차<br />(25.03.31 - 25.04.06)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
