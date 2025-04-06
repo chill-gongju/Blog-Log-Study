@@ -226,6 +226,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">6주차<br />(25.03.31 - 25.04.06)</th>
+      <td><a href='https://velog.io/@znhxxn/S3-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%82%AD%EC%A0%9C-API-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0'>S3 삭제 API 구현하기</td>
+      <td align="center"><code>AWS S3</code></td>
+      <td align="center">종훈</td>
+      <tr>
+      <td><a href='https://heebeom-song.github.io/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%95%99%EC%8A%B5/JavaScript/%EC%8A%A4%EC%BD%94%ED%94%84.html'>JS 스코프 정리</td>
+      <td align="center"><code>스코프</code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@wlqgkrry/3%EC%9B%94%EC%9D%84-%EB%B3%B4%EB%82%B4%EB%A9%B0'>3월을 보내며</td>
+      <td align="center"><code>3월 정리와 4월의 계획</code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/state%EC%99%80-useState'>state와 useState</td>
+      <td align="center"><code>useState</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/70'>ESLint, Prettier</td>
+      <td align="center"><code>ESLint, Prettier</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/15'>React 프로젝트 React-native로 확장하기</td>
+      <td align="center"><code>React, React-native</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@nowrobin/%EB%94%94%EB%B0%94%EC%9A%B4%EC%8A%A4-%EB%B6%84%EB%A6%AC-%EA%B3%BC%EC%A0%95'>디바운스 분리 과정</td>
+      <td align="center"><code>디바운싱</code></td>
+      <td align="center">정욱</td>
+    </tr>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">7주차<br />(25.04.07 - 25.04.13)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
