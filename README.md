@@ -264,6 +264,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">7주차<br />(25.04.07 - 25.04.13)</th>
+      <td><a href='https://velog.io/@znhxxn/%ED%8C%8C%EC%8B%B1%EC%9D%B4%EB%9E%80'>파싱이란?</td>
+      <td align="center"><code>파싱</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href='https://heebeom-song.github.io/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%95%99%EC%8A%B5/JavaScript/this.html'>JS this 정리</td>
+      <td align="center"><code>this</code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@wlqgkrry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-divide-and-conquer'>알고리즘: divide and conquer </td>
+      <td align="center"><code>알고리즘</code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94'>성능 최적화</td>
+      <td align="center"><code>성능 최적화</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/71'>운영체제</td>
+      <td align="center"><code>운영체제</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/17'>다크모드 훅 vs provider</td>
+      <td align="center"><code>다크모드</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@nowrobin/LCP'>성능 최적화를 해보자</td>
+      <td align="center"><code>LCP</code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">8주차<br />(25.04.14 - 25.04.20)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
