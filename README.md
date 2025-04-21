@@ -302,6 +302,39 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">8주차<br />(25.04.14 - 25.04.20)</th>
+      <td><a href='https://velog.io/@znhxxn/CLI로-mariaDB-관리하기'>CLI로 mariadb 관리하기</td>
+      <td align="center"><code>mariadb</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/LightHouse로-성능-분석해보기'>LightHouse로 성능 분석해보기</td>
+      <td align="center"><code>LightHouse</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/73'>머신러닝 기초</td>
+      <td align="center"><code>머신러닝</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/18'>웹 접근성</td>
+      <td align="center"><code>웹 접근성</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@nowrobin/깊은-복사-얕은-복사에-대하여'>깊은 복사, 얕은 복사에 대하여</td>
+      <td align="center"><code>객체 복사</code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">9주차<br />(25.04.21 - 25.04.27)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
