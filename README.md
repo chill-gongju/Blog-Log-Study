@@ -335,38 +335,38 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">9주차<br />(25.04.21 - 25.04.27)</th>
-      <td><a href=''></td>
-      <td align="center"><code></code></td>
+      <td><a href='https://velog.io/@znhxxn/%EC%BD%94%EB%93%9C-%EC%88%9C%EC%84%9C%EC%97%90-%EB%94%B0%EB%A5%B8-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%97%90%EB%9F%AC'>코드 순서를 바꿔보며 에러 해결하기</td>
+      <td align="center"><code>코드 순서</code></td>
       <td align="center">종훈</td>
     </tr>
     <tr>
-      <td><a href=''></td>
-      <td align="center"><code></code></td>
+      <td><a href='https://heebeom-song.github.io/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%20%ED%95%99%EC%8A%B5/JavaScript/%ED%98%B8%EC%B6%9C%20%EC%8A%A4%ED%83%9D%EA%B3%BC%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.html'>호출 스택과 실행 컨텍스트 정리</td>
+      <td align="center"><code>호출 스택과 실행 컨텍스트</code></td>
       <td align="center">희범</td>
     </tr>
     <tr>
-      <td><a href=''></td>
-      <td align="center"><code></code></td>
+      <td><a href='https://velog.io/@wlqgkrry/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%EC%9E%91-1%EA%B0%95'>spring project</td>
+      <td align="center"><code>spring</code></td>
       <td align="center">지현</td>
     </tr>
     <tr>
-      <td><a href=''></td>
-      <td align="center"><code></code></td>
+      <td><a href='https://velog.io/@eesoyeon/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%A0-%EB%95%8C-%EB%B0%9C%EC%83%9D%ED%95%9C-%EC%8B%9C%ED%96%89%EC%B0%A9%EC%98%A4'>이미지 다운로드 기능을 구현할 때 발생한 시행착오</td>
+      <td align="center"><code>이미지 다운로드</code></td>
       <td align="center">소연</td>
     </tr>
     <tr>
-      <td><a href=''></td>
-      <td align="center"><code></code></td>
+      <td><a href='https://y9s2n6.tistory.com/74'>FSD 아키텍처</td>
+      <td align="center"><code>FSD 아키텍처</code></td>
       <td align="center">유성</td>
     </tr>
     <tr>
-      <td><a href=''></td>
-      <td align="center"><code></code></td>
+      <td><a href='https://chaeon1.tistory.com/19'>Skeleton UI</td>
+      <td align="center"><code>Skeleton UI</code></td>
       <td align="center">채연</td>
     </tr>
     <tr>
-      <td><a href=''></td>
-      <td align="center"><code></code></td>
+      <td><a href='https://velog.io/@nowrobin/React-19-New-Hooks'>React 19 New Hooks</td>
+      <td align="center"><code>React Hook</code></td>
       <td align="center">정욱</td>
     </tr>
   </tbody>
