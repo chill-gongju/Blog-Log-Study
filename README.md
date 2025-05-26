@@ -111,6 +111,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">1주차<br />(25.05.19 - 25.05.25)</th>
+      <td><a href='https://velog.io/@znhxxn/express%EC%99%80-swagger-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0'>express와 swagger 연동하기</td>
+      <td align="center"><code>swagger</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/%EC%9D%B8%EC%A6%9D(Authorization)/Bearer%20%EC%9D%B8%EC%A6%9D.html'>Bearer 인증</td>
+      <td align="center"><code>bearer</code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@wlqgkrry/%EC%B0%BD%EC%97%85-%EA%B0%95%EC%97%B0-%EC%A0%95%EB%A6%AC'>창업 강연 정리</td>
+      <td align="center"><code>창업</code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/76'>Git Hooks</td>
+      <td align="center"><code>Git Hooks</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/23'>Tiptap 에디터 적용</td>
+      <td align="center"><code>WYSIWYG 에디터</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">2주차<br />(25.05.26 - 25.06.01)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
