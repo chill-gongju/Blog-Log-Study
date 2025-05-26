@@ -155,7 +155,7 @@
     </tr>
     <tr>
       <td><a href=''></td>
-      <td align="center"></td>
+      <td align="center"><code></code></td>
       <td align="center">희범</td>
     </tr>
     <tr>
