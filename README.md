@@ -149,6 +149,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">2주차<br />(25.05.26 - 25.06.01)</th>
+      <td><a href='https://velog.io/@znhxxn/Java-%EB%A9%94%EC%84%9C%EB%93%9C-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0'>Java 메서드 활용하기</td>
+      <td align="center"><code>Java</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80/AWS/AWS%20EC2%20%EC%84%9C%EB%B2%84%20%EB%B0%B0%ED%8F%AC.html'>AWS EC2를 활용한 서버 배포</td>
+      <td align="center"><code>AWS EC2</code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@wlqgkrry/%ED%98%91%EC%97%85-%EB%B0%8F-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%EC%97%90-%EC%95%8C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%A0%95%EB%B3%B4%EB%93%A4'>협업 및 프로젝트 전에 알면 좋은 정보들</td>
+      <td align="center"><code>깃, 깃허브, 마크다운, 리드미, 협업></code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-Testing-1-%EC%9D%B4%EB%A1%A0'>프론트엔드의 Testing-(1) 이론</td>
+      <td align="center"><code>Testing</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/78'>베이지안 분류기</td>
+      <td align="center"><code>베이지안 분류기</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/24'>JavaScript 코딩 테스트 기본 문법 정리</td>
+      <td align="center"><code>JavaScript</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@nowrobin/%EC%99%84%EC%A0%84-%ED%83%90%EC%83%89'>완전 탐색</td>
+      <td align="center"><code>알고리즘</code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">3주차<br />(25.06.02 - 25.06.08)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
