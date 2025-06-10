@@ -187,6 +187,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">3주차<br />(25.06.02 - 25.06.08)</th>
+      <td><a href='https://velog.io/@znhxxn/Java-%EB%A9%94%EC%84%9C%EB%93%9C-%EB%B0%8F-%EB%AC%B8%EB%B2%95-%EC%8B%A4%EC%8A%B5-2'>Java 메서드 및 문법 실습2</td>
+      <td align="center"><code>Java</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/React-Portal%EB%A1%9C-%EB%AA%A8%EB%8B%AC-%EB%9D%84%EC%9A%B0%EB%8A%94-%EB%B2%95'>React Portal로 모달 띄우는 법</td>
+      <td align="center"><code>React Portal</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/85'>CH9-2 Uniprocessor Scheduling</td>
+      <td align="center"><code>운영체제</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/25'>Snackbar 컴포넌트 설계</td>
+      <td align="center"><code>Snackbar</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@nowrobin/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%EC%A4%80%EB%B9%84'>프로젝트 배포준비</td>
+      <td align="center"><code>배포환경</code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">4주차<br />(25.06.09 - 25.06.15)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
