@@ -225,6 +225,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">4주차<br />(25.06.09 - 25.06.15)</th>
+      <td><a href='https://velog.io/@znhxxn/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%ED%85%8C%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0'>알고리즘 코테에 적용하기</td>
+      <td align="center"><code>알고리즘</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/dynamic%20programming.html'>Dynamic Programming</td>
+      <td align="center"><code>알고리즘</code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@wlqgkrry/%EC%98%A4%EB%A5%B4%EB%8B%A4'>창업 강연 정리</td>
+      <td align="center"><code>창업</code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-useInfiniteQuery-IntersectionObserver'>무한 스크롤을 만들어보자</td>
+      <td align="center"><code>무한스크롤</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/91'>CH6-1 Concurrency : Deadlock and Starvation</td>
+      <td align="center"><code>운영체제</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/26'>프로젝트 세팅 - Next.js, Storybook, Jest</td>
+      <td align="center"><code>프로젝트 세팅</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@nowrobin/Next.js-%EC%99%80-Vercel'>Next.js 와 Vercel</td>
+      <td align="center"><code>Next.js, Vercel</code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">5주차<br />(25.06.16 - 25.06.22)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
