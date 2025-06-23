@@ -263,6 +263,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">5주차<br />(25.06.16 - 25.06.22)</th>
+      <td><a href='https://velog.io/@znhxxn/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94'>이미지 로딩 속도 최적화하기</td>
+      <td align="center"><code>이미지 최적화</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@wlqgkrry/%EC%98%A4%EB%8A%98%EC%9E%90-%EA%B3%BC%EC%A0%9C'>CEOS 과제</td>
+      <td align="center"><code>SpringBoot</code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-Life-Cycle'>리액트의 생명 주기</td>
+      <td align="center"><code>생명 주기</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/92'>앙상블 기법</td>
+      <td align="center"><code>앙상블 기법</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/28'>시간 복잡도</td>
+      <td align="center"><code>알고리즘</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@nowrobin/%EB%84%A4%EC%9D%B4%EB%B2%84-FE-intern-%EA%B3%BC%EC%A0%9C%ED%9B%84%EA%B8%B0'>FE 인턴 과제 와르르멘션</td>
+      <td align="center"><code>과제 후기</code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">6주차<br />(25.06.23 - 25.06.29)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
