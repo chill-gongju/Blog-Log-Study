@@ -301,6 +301,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">6주차<br />(25.06.23 - 25.06.29)</th>
+      <td><a href='https://velog.io/@znhxxn/%EC%9E%90%EB%B0%94-%EB%A9%94%EC%84%9C%EB%93%9C-%EB%B0%8F-%EB%AC%B8%EB%B2%95-%EC%8B%A4%EC%8A%B5-3'>자바 메서드 및 문법 실습 3</td>
+      <td align="center"><code>Java</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/Web-%EB%A0%8C%EB%8D%94%EB%A7%81-%EB%B0%A9%EC%8B%9D-%EB%B9%84%EA%B5%90-CSR-SSR-SSG'>Web 렌더링 방식 비교 (CSR, SSR, SSG)</td>
+      <td align="center"><code>CSR, SSR, SSG</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href='https://y9s2n6.tistory.com/94'>vscode - settings.json 초기 세팅</td>
+      <td align="center"><code>settings.json</code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href='https://chaeon1.tistory.com/29'>시간 복잡도</td>
+      <td align="center"><code>시간 복잡도 계산법</code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@nowrobin/%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Recap'>정렬 알고리즘 Recap</td>
+      <td align="center"><code>Sorting</code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">7주차<br />(25.06.30 - 25.07.06)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
