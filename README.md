@@ -339,6 +339,44 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">7주차<br />(25.06.30 - 25.07.06)</th>
+      <td><a href='https://velog.io/@znhxxn/%EC%BD%94%EB%93%9C-%ED%92%88%EC%A7%88-%EB%8F%84%EA%B5%AC-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0'>코드 품질 개선 도구 활용하기</td>
+      <td align="center"><code>코드 품질 개선 도구</code></td>
+      <td align="center">종훈</td>
+    </tr>
+    <tr>
+      <td><a href='https://heebeom-song.github.io/%EA%B0%9C%EB%B0%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/algorithm/Greedy.html'>Greedy Algorithm</td>
+      <td align="center"><code>Algorithm</code></td>
+      <td align="center">희범</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">지현</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@eesoyeon/localStorage-vs.-sessionStorage-vs.-cookie-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%A0%95%EB%A6%AC'>localStorage vs. sessionStorage vs. cookie 차이점 정리</td>
+      <td align="center"><code>localstorage, sessionstorage, cookie</code></td>
+      <td align="center">소연</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">유성</td>
+    </tr>
+    <tr>
+      <td><a href=''></td>
+      <td align="center"><code></code></td>
+      <td align="center">채연</td>
+    </tr>
+    <tr>
+      <td><a href='https://velog.io/@nowrobin/Playwright-E2E-%ED%83%90%ED%97%98%EA%B8%B0'>Playwright E2E 탐험기</td>
+      <td align="center"><code>테스트 코드</code></td>
+      <td align="center">정욱</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th rowspan=8 align="center">8주차<br />(25.07.07 - 25.07.13)</th>
       <td><a href=''></td>
       <td align="center"><code></code></td>
       <td align="center">종훈</td>
