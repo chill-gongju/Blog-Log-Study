@@ -377,8 +377,8 @@
   <tbody>
     <tr>
       <th rowspan=8 align="center">8주차<br />(25.07.07 - 25.07.13)</th>
-      <td><a href=''></td>
-      <td align="center"><code></code></td>
+      <td><a href='https://velog.io/@znhxxn/%EC%9E%AC%EA%B7%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98recursive-algorithm'>재귀 알고리즘</td>
+      <td align="center"><code>Algorithm</code></td>
       <td align="center">종훈</td>
     </tr>
     <tr>
@@ -392,8 +392,8 @@
       <td align="center">지현</td>
     </tr>
     <tr>
-      <td><a href=''></td>
-      <td align="center"><code></code></td>
+      <td><a href='https://velog.io/@eesoyeon/TypeScript-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0'>TypeScript 이해하기</td>
+      <td align="center"><code>typescript</code></td>
       <td align="center">소연</td>
     </tr>
     <tr>
@@ -407,8 +407,8 @@
       <td align="center">채연</td>
     </tr>
     <tr>
-      <td><a href=''></td>
-      <td align="center"><code></code></td>
+      <td><a href='https://velog.io/@nowrobin/Websocket%EC%9D%84-%EB%8F%84%EC%A0%84%ED%95%B4%EB%B3%B4%EC%9E%90'>Websocket을 도전해보자</td>
+      <td align="center"><code>websocket</code></td>
       <td align="center">정욱</td>
     </tr>
   </tbody>
